@@ -37,7 +37,7 @@ const Contact = () => {
 
           <AnimatedTitle
             title="Together, let's shape <br/> the future of energy <br/> and technology"
-            className="special-font !md:text-[6.2rem] w-full font-zentry !text-5xl !font-black !leading-[.9]"
+            className="special-font !md:text-[6.0rem] w-full font-zentry !text-5xl !font-black !leading-[.9]"
           />
 
           <Button title="Sign Up" containerClass="mt-10 cursor-pointer" />
