@@ -27,7 +27,7 @@ const BentoTilt=({children, className=''})=>{
 
 const BentoCard = ({src, title,description})=>{
   return(
-    <div className='relative size-full '>
+    <div className='relative h-full w-full '>
       <video
       src={src}
       loop 
